@@ -1,3 +1,5 @@
 *.a
 *.lib
+*.dll
+*.so
 src/__pycache__
