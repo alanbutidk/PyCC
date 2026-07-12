@@ -1,0 +1,3 @@
+*.a
+*.lib
+src/__pycache__
