@@ -1,5 +1,5 @@
 *.a
 *.lib
-*.dll
+PyCCRuntime*.dll
 *.so
 src/__pycache__
